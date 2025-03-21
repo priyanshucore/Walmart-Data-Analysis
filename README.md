@@ -41,7 +41,6 @@ To enhance growth, Walmart should focus on optimizing promotions to boost sales 
 
 ![Sales and revenue by product](visualizations/product_sales_revenue.png)
 
-
 #### 2. Seasonality & trends.
 
 - **Insights :**
@@ -199,7 +198,7 @@ To enhance growth, Walmart should focus on optimizing promotions to boost sales 
 
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+walmart-analysis-project/
 │
 ├── dataset/                            # Raw dataset used for the project (Walmart data)
 │
